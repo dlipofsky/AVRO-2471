@@ -1,0 +1,8 @@
+{
+  "type" : "record",
+  "name" : "Test2",
+  "fields" : [ {
+    "name" : "time",
+    "type" : { "type" : "long", "logicalType" : "timestamp-micros" }
+  } ]
+}
